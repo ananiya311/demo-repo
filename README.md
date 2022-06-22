@@ -1,2 +1,2 @@
 # demo-repo
-gethub tutorial
+some description
